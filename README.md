@@ -2,7 +2,7 @@
 
 Submitted by: **Imani Cage**
 
-**Task: To-Do List** is an app that ... [TODO] 
+**Task: To-Do List** is an app that saves and persists task data to local storage using UserDefaults. In addition, tab bar navigation is added so users can manage their tasks on the main tasks list as well as a calendar.
 
 Time spent: **3** hours spent in total
 
