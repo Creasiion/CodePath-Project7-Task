@@ -25,11 +25,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Guide]](https://www.loom.com/share/9f54443d98504de785f7e024927f6050) .
+[Guide]](https://www.loom.com/share/ba2b0ed9e05f48919ac9fa918a3a39ad?sid=0759b47a-6006-40bb-86ee-2c56eaf2e68e) .
 
 ## Notes
 
-- Starter code of this project duplicates task once you mark it as complete.
+- Starter code of this project duplicates task once you mark it as complete. This has been adjusted in this code however!
 
 ## License
 
