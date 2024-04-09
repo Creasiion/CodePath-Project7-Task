@@ -18,7 +18,8 @@ struct Task {
 
     // Initialize a new task
     // `note` and `dueDate` properties have default values provided if none are passed into the init by the caller.
-    init(title: String, note: String? = nil, dueDate: Date = Date()) {
+    init(id: String, title: String, note: String? = nil, dueDate: Date = Date()) {
+        self.id = id
         self.title = title
         self.note = note
         self.dueDate = dueDate
@@ -47,7 +48,7 @@ struct Task {
     let createdDate: Date = Date()
 
     // An id (Universal Unique Identifier) used to identify a task.
-    let id: String = UUID().uuidString
+    let id: String
 }
 
 // MARK: - Task + UserDefaults
